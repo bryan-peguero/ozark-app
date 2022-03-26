@@ -1,0 +1,7 @@
+{
+  "name": "tarea_05",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
